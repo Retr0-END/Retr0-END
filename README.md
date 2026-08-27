@@ -1,16 +1,21 @@
-## Hi there 👋
+# Opa, Meu nome é Guilherme, mas pode me chamar de Retr0
 
-<!--
-**Retr0-END/Retr0-END** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👨‍💻 Quem sou eu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou um [Estudante de Ciência da Computação (CCP)] desenvolvendo o gosto por resolver problemas através de código. Atualmente, estou focado em aprimorar minhas habilidades em Python e C, sempre buscando desafios e aprendendo como a tecnologia realmente funciona!
+
+
+### 🛠️ Linguagens e Ferramentas
+
+*  **Front-end:** HTML, CSS, JavaScripy
+
+*  **Back-end:** Python, C
+
+*  **Design:** Figma, Blender, PowerPoint
+
+*  **Outros:** Git, Bash
+
+
+### 📫 Como me encontrar
+[LinkedIn](www.linkedin.com/in/guilherme-gonçalves-nunes-422696371)
