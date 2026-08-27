@@ -3,7 +3,7 @@
 
 ### 👨‍💻 Quem sou eu
 
-Sou um [Estudante de Ciência da Computação (CCP)] desenvolvendo o gosto por resolver problemas através de código. Atualmente, estou focado em aprimorar minhas habilidades em Python e C, sempre buscando desafios e aprendendo como a tecnologia realmente funciona!
+Sou um Estudante de Ciência da Computação (CCP) desenvolvendo o gosto por resolver problemas através de código. Atualmente, estou focado em aprimorar minhas habilidades em Python e C, sempre buscando desafios e aprendendo como a tecnologia realmente funciona!
 
 
 ### 🛠️ Linguagens e Ferramentas
