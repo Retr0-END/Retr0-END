@@ -19,7 +19,7 @@ Python, C, HTML, CSS, JAVASCRIPT, BASH
 ### 🛠️ Ferramentas:
 
 *  **Programação:**  Visual Studio, Arduino IDE
-*  **Design:** Figma, Blender, PowerPoint, Premiere
+*  **Design:** Figma, Blender, PowerPoint, Photoshop, After Effects, Premiere
 *  **Prototipagem** Figma
 *  **Anotações** Obsidian
 *  **Transmissão/Gravação** OBS Studio
