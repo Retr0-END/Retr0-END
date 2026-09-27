@@ -4,7 +4,7 @@
 
 ### Sobre mim:
 
-Opa, meu nome é Guilherme Nunes e tenho 18 anos, estou iniciando no mundo da programação e cursando Ciência da Computação na Universidade Cruzeiro Do Sul, tenho um enorme interesse em tecnologia e estudos científicos, estou em busca do puro e delicioso conhecimento, a cada dia fazendo meu amor por tecnologia crescer. Em momentos casuais estou quase sempre estudando programação, Edição e Piano :D
+Opa. Meu nome é Guilherme Nunes e tenho 18 anos. Estou iniciando no mundo da programação e cursando Ciência da Computação na Universidade Cruzeiro Do Sul, tenho um enorme interesse em tecnologia e estudos científicos, estou em busca do puro e delicioso conhecimento. A cada dia fazendo meu amor por tecnologia crescer. Em momentos casuais, estou quase sempre estudando programação, Edição e Piano :D
 
 ---
 
